@@ -1,0 +1,6 @@
+beautifulsoup4
+Faker
+hyper
+requests
+selenium
+tqdm
